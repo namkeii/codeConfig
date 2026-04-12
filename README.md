@@ -1,11 +1,11 @@
-# code configs
+# Code Configs
 
-## todos 
+## TODO
 
 - [ ] Add sundown into the settings
 - [ ] Allign navigation numbers - no numbers for changes, but numbers do exists for unsaved files in explorer & on the number of bookmarks
 
-## java win paths
+## Java win paths
 
 ```json
     "java.configuration.runtimes": [
