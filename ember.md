@@ -36,3 +36,23 @@
     "java.sharedIndexes.location": "C:\\dev\\forge\\codeIndex",
     "java.sharedIndexes.enabled": "on",
 ```
+
+## To convert
+
+### Default
+
+- roo code
+- sonarqube (office thing)
+- vscode pdf (office thing)
+- gitlab duo (office thing)
+
+
+- add editor rules everywhere
+- diffeditor.rendersidebyside=true
+
+
+not doing
+- markdown.preview.fontsize=
+- fontsize=
+- terminal fonts
+- updateshowreleasenotes
